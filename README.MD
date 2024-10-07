@@ -1,7 +1,3 @@
-Here’s a draft for your README file based on the components you mentioned:
-
----
-
 # WRO24 Competition Project - ED-Force
 
 ## Overview

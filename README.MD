@@ -15,9 +15,9 @@ Our robot utilizes two independent battery systems:
 
 ### Vision Systems
 - **HuskyLens Camera**: This AI-powered camera is responsible for detecting lines and counting objects. Its machine learning capabilities allow the robot to adapt to varying conditions and line patterns.
-- **Pixy Camera**: Dedicated to obstacle avoidance, the Pixy camera quickly identifies and tracks objects, ensuring the robot can navigate complex environments without collision.
+- **Pixy Camera**: Dedicated to obstacle avoidance, the Pixy camera quickly identifies and tracks objects, ensuring the robot can navigate complex environments without  
 
-## Installation
+# Installation
 1. Clone this repository.
 2. Install necessary dependencies and libraries (list dependencies here).
 3. Set up the cameras and IMU as per the connection guide in the hardware section.

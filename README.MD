@@ -1,4 +1,4 @@
-# WRO24 Competition Project - ED-Force
+# WRO24 Competition Project - ED Force
 
 ## Overview
 This project is designed for the WRO24 competition, incorporating advanced sensors, control systems, and vision technologies to achieve optimal performance in robotic tasks such as line tracking, obstacle avoidance, and counting. Our robot integrates a range of components including IMU sensors, dual cameras, and a custom power management system.
